@@ -96,3 +96,12 @@ table img
     width: 80px;
     height: 80px;
 }
+table tr
+{
+    background-color: rgba(255, 254, 254, 0.411);
+    color: rgb(27, 27, 27);
+}
+table tr:hover
+{
+    background-color: rgb(255, 254, 254);
+}
